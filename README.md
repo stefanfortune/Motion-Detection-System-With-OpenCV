@@ -1,8 +1,6 @@
 # Motion-Detection-System-With-OpenCV
 
 
-Here's a sample README file for your project:
-
 **Advanced Motion Detection System**
 
 A Python-based motion detection system using OpenCV and Tkinter for GUI.
